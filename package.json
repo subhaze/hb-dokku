@@ -1,0 +1,16 @@
+{
+  "name": "subhaze/hb-dokku",
+  "version": "1.0.0",
+  "description": "A Harp App on Dokku",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production node index.js"
+  },
+  "dependencies": {
+    "harp": "*"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
