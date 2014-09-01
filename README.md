@@ -14,7 +14,7 @@ You can install Dokku on your own by following the instructions [here](https://g
 
 ### 1. Setting up the remote repo
 
-Clone this repo to your location machine `git clone https://github.com/subhaze/hb-dokku.git <your_app_name>`. then `cd <your_app_name>` into the folder you cloned to and setup the remote repo, which should be something like: `git remote add dokku dokku@<your_domain>:<your_app_name>`
+Clone this repo to your location machine `git clone https://github.com/subhaze/hb-dokku.git <your_app_name>` then `cd <your_app_name>` into the folder you cloned to and setup the remote repo, which should be something like: `git remote add dokku dokku@<your_domain>:<your_app_name>`
 
 ### 2. Running locally
 
