@@ -1,5 +1,5 @@
 {
-  "name": "subhaze/hb-dokku",
+  "name": "hb-dokku",
   "version": "1.0.0",
   "description": "A Harp App on Dokku",
   "main": "index.js",
