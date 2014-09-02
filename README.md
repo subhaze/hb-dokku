@@ -18,7 +18,7 @@ Clone this repo to your location machine `git clone https://github.com/subhaze/h
 
 ### 2. Running locally
 
-If you have harp installed globally `npm install -g harp` you can start up the harp server via `harp server public`. If you don't have harp setup you can run `npm install` to install it locally and then you can start up the app via `node_modules/.bin/harp server public`
+If you have harp installed globally `npm install -g harp` you can start up the harp server via `harp server`. If you don't have harp setup you can run `npm install` to install it locally and then you can start up the app via `node_modules/.bin/harp server`
 
 ### 3. Deploying your app
 
