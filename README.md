@@ -1,4 +1,4 @@
-# Deploying on dokku
+# Deploying Harp on dokku
 
 [Dokku](https://github.com/progrium/dokku) is a Docker powered mini-Heroku in around 100 lines of Bash.
 
